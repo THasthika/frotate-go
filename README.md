@@ -3,13 +3,13 @@
 A tool to keep a fixed number of files in a directory, useful for keeping backups
 
 ## Downlaod
-go get github.com/tharindu96/frotate-go/cmd/frotate
+go get github.com/THasthika/frotate-go/cmd/frotate
 
 ## Run
-go run github.com/tharindu96/frotate-go/cmd/frotate
+go run github.com/THasthika/frotate-go/cmd/frotate
 
 ## Build
-go build -o frotate github.com/tharindu96/frotate-go/cmd/frotate
+go build -o frotate github.com/THasthika/frotate-go/cmd/frotate
 
 ## Usage
 ./frotate [command]
